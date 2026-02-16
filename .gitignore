@@ -2,7 +2,6 @@
 /.git
 /__pycache__
 /Informe
-/.venv44
-/Dataset
+/.venv
 
 *.h5
